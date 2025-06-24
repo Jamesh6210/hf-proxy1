@@ -283,8 +283,8 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03Mj
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/bbc-four.png" group-title="UNITED KINGDOM",BBC Four UK
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzU5L21vbm8ubTN1OA==.m3u8
 
@@ -295,20 +295,20 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQ5L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="UNITED KINGDOM",BBC One UK
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNTYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/bbc-three.png" group-title="UNITED KINGDOM",BBC Three UK
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNTgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="UNITED KINGDOM",BBC Two UK
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzU3L21vbm8ubTN1OA==.m3u8
 
