@@ -5109,8 +5109,8 @@
         "tvg_logo": "https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-cinema-action-uk.png",
         "stream_url": "https://windnew.koskoros.ru/wind/premium677/mono.m3u8",
         "options": [
-            "#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/",
-            "#EXTVLCOPT:http-origin=https://lefttoplay.xyz",
+            "#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/",
+            "#EXTVLCOPT:http-origin=https://forcedtoplay.xyz",
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
         ]
     },
